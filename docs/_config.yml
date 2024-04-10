@@ -1,0 +1,11 @@
+remote_theme: just-the-docs/just-the-docs
+color_scheme: blue
+plugins:
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-readme-index
+  - jekyll-relative-links
+title: ML 101
+description: ML education for kids!
